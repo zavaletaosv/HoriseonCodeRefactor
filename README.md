@@ -16,7 +16,7 @@ This project is a code refractor for the Horiseon webpage. The purpose of this r
 
 ## Links
 
-Code depository link: https://github.com/zavaletaosv/Horiseon-Code-Refractor
+Code depository link: https://github.com/zavaletaosv/HoriseonCodeRefractor
 
 Deployed website link: file:///Users/osvaldozavaleta/projects/Horiseon-Code-Refractor/Homework/index.html
 ## Installation
