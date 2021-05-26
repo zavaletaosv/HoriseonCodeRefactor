@@ -3,6 +3,12 @@
 
 This project is a code refractor for the Horiseon webpage. The purpose of this refactoring is to make the previous code provided more efficient, comprehensible, and accessible. This refactoring should also result in an improved search engine. The modifications do not change the overall display of the page nor does it change the underlying code.
 
+## Usage
+
+Once deployed, the application appears as the image attached below on a traditional desktop. This site is not yet optimized for smaller screens. 
+
+
+
 ## Tasks Completed
 
 - Redundant classes were consolidated
