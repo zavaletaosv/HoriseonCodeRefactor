@@ -7,7 +7,9 @@ This project is a code refractor for the Horiseon webpage. The purpose of this r
 
 Once deployed, the application appears as the image attached below on a traditional desktop. This site is not yet optimized for smaller screens. 
 
-
+<img 
+src="./assets/images/Horiseon-Screenshot.png"
+alt="A screenshot of the Horiseon webpage" />
 
 ## Tasks Completed
 
