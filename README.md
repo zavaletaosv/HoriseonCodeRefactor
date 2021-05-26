@@ -18,7 +18,7 @@ This project is a code refractor for the Horiseon webpage. The purpose of this r
 
 Code depository link: https://github.com/zavaletaosv/HoriseonCodeRefractor
 
-Deployed website link: file:///Users/osvaldozavaleta/projects/Horiseon-Code-Refractor/Homework/index.html
+Deployed website link: https://zavaletaosv.github.io/HoriseonCodeRefractor/
 ## Installation
 
 Uploaded an index.html and assets folder to the deployed website. The assets folder contained subfolders with images and CSS files.
