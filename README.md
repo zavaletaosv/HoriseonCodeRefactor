@@ -1,4 +1,4 @@
-# Horiseon Code Refractor
+# Horiseon Code Refactor
 ## Description
 
 This project is a code refractor for the Horiseon webpage. The purpose of this refactoring is to make the previous code provided more efficient, comprehensible, and accessible. This refactoring should also result in an improved search engine. The modifications do not change the overall display of the page nor does it change the underlying code.
